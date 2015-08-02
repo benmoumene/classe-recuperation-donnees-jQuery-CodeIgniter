@@ -27,7 +27,10 @@ CodeIgniter 3.0
 Installation
 ************
 
+
 Just download the .zip and install under your xampp or wamp etc...
+
+
 *******
 License
 *******
