@@ -35,8 +35,8 @@ Just download the .zip and install under your xampp or wamp etc...
 License
 *******
 
-Still figuring out the best license agreement ^__^
-But for it's free to use.
+Still figuring out the best license agreement
+But for now it's free to use.
 
 *********
 Resources
