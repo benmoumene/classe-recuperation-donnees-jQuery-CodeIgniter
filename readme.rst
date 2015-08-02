@@ -2,7 +2,9 @@
 What is Spyder9?
 ###################
 
-Is a Library/Class for CodeIgniter, but can be also use in other framework like Lararavel etc...
+Is a Library/Class for CodeIgniter...
+
+Using the cURL for scraping data.
 
 *******************
 Release Information
@@ -36,6 +38,7 @@ License
 *******
 
 Still figuring out the best license agreement
+
 But for now it's free to use.
 
 *********
