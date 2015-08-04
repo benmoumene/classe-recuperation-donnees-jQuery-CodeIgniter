@@ -5,6 +5,7 @@ What is Spyder9?
 Is a data scraper Library/Class for CodeIgniter...
 
 Using the cURL for scraping data.
+I have included the whole CodeIgniter Framework files for easy testing of the Spyder9 classes.
 
 *******************
 Release Information
