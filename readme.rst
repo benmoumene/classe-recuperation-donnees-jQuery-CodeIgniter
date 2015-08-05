@@ -6,7 +6,7 @@ Is a data scraper Library/Class for CodeIgniter...
 Using the cURL for scraping data.
 
 I have included the whole CodeIgniter Framework files for easy testing of the Spyder9 classes.
-the class can be found under /modules/jaz_spyder_admin/models/
+the class can be found under /application/libraries/
 
 *******************
 Release Information
