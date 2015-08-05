@@ -12,7 +12,7 @@ the class can be found under /application/libraries/
 Release Information
 *******************
 
-Just download the .zip file or pull the repo.
+Just download the .zip file or clone the repo.
 
 **************************
 Changelog and New Features
