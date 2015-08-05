@@ -37,8 +37,12 @@ class Spyder_lib {
 		$this->CI->load->library('session');
 		$this->CI->config->item('base_url');
 	 */
-
 	}
+
+
+#############################
+#	General Methods
+#############################
 
     public function sanitize_url($url)
     {
@@ -48,31 +52,30 @@ class Spyder_lib {
     	
     }
 
+    public function check_valid_email()
+    {
+    	
+    }
+	
+    public function check_valid_url()
+    {
+    	
+    }	
+	
+
+#############################
+#	cURL Methods
+#############################
+
     public function scrape_url()
     {
     	
     }
 	
-    public function save_100()
-    {
-    	
-    }
 	
-    public function verify_email()
-    {
-    	
-    }
-	
-    public function verify_url()
-    {
-    	
-    }
-	
-    public function ()
-    {
-    	
-    }	
-	
+#############################
+#	DOM Methods
+#############################	
 	/*
 	Usage: Extract string between tags.
     $string = '<h1>Hello World!</h1>';
@@ -88,14 +91,41 @@ class Spyder_lib {
     		$substrStart = $startPos + strlen($start);	// Assigning start position
     		return substr($item, $substrStart, $endPos - $substrStart);	// Returning string between start and end positions
     	}
-    }				
+    }	
+	
+    public function save_100()
+    {
+    	
+    }
+
+
+#############################
+#	xGanon Methods
+#############################
+	
+    public function verify_email()
+    {
+    	
+    }
+	
+#############################
+#	xPath Methods
+#############################	
 	
 	
-#####################################################################
+    public function verify_url()
+    {
+    	
+    }
+	
+
+			
+	
+	
+#############################
 #	For Testing...
-#####################################################################
+#############################
 
 
-	
-		
+
 }
